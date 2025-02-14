@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-#This is newer version of commit
+#This is latest version of commit
 def add(a, b):
     return a + b
 
